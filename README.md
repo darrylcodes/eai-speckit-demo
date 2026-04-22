@@ -1,6 +1,12 @@
 # Era of AI
 
-## Setup
+## GitHub Copilot CLI and Relate tools
+**GitHub Copilot CLI:** (https://github.com/features/copilot/cli)
+**Squad:** (https://github.com/bradygaster/squad)
+**Spec Kit:** (https://github.com/github/spec-kit)
+
+
+## Spec Kit Setup
 uv tool install specify-cli --from git+https://github.com/github/spec-kit.git
 
 ## Initiallize
